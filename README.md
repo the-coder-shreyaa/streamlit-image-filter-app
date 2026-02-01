@@ -18,4 +18,9 @@ Clean and beginner-friendly UI
 Python
 Streamlit
 PIL (Pillow)
+## 📸 App Screenshots
+
+![Home](screenshots/home.png)
+![Upload](screenshots/IMG_20260201_134510.jpg)
+![Filter](screenshots/IMG_20260201_134510.jpg)
    
