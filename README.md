@@ -20,7 +20,6 @@ Streamlit
 PIL (Pillow)
 ## 📸 App Screenshots
 
-![Home](screenshots/home.png)
-![Upload](screenshots/IMG_20260201_134510.jpg)
-![Filter](screenshots/IMG_20260201_134510.jpg)
+![Home](IMG_20260201_134510.jpg)
+![Upload](IMG_20260201_134554.jpg)
    
